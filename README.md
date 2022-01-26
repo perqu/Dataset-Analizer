@@ -21,6 +21,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 I made this library to help speed up the initial data processing. Its task is to quickly and clearly present the data structure and to approximate possible problems that will have to be solved.
+<!-- Image about -->
+<p align="center">
+    <img src="materials/ss.png" alt="ss">
+</p>
 
 ### Built With
 
