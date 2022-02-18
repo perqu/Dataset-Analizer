@@ -9,6 +9,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#installation">Built With</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -21,6 +22,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 I made this library to help speed up the initial data processing. Its task is to quickly and clearly present the data structure and to approximate possible problems that will have to be solved.
+
+  ```sh
+  PyPI link : https://test.pypi.org/project/dsanalizer/
+  ```
+
 <!-- Image about -->
 <p align="center">
     <img src="materials/ss.png" alt="ss">
@@ -31,6 +37,12 @@ I made this library to help speed up the initial data processing. Its task is to
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Python](https://www.python.org/)
+
+### Installation
+
+  ```sh
+  pip install -i https://test.pypi.org/simple/ dsanalizer
+  ```
 
 <!-- LICENSE -->
 ## License
