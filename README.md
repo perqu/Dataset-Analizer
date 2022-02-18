@@ -23,8 +23,9 @@
 ## About The Project
 I made this library to help speed up the initial data processing. Its task is to quickly and clearly present the data structure and to approximate possible problems that will have to be solved.
 
+  PyPI link : 
   ```sh
-  PyPI link : https://test.pypi.org/project/dsanalizer/
+  https://test.pypi.org/project/dsanalizer/
   ```
 
 <!-- Image about -->
